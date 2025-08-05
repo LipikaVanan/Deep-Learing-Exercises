@@ -1,4 +1,4 @@
-ex.2:
+ex.2:"multilayer perception with a hyperparameter tuning"
 "https://colab.research.google.com/drive/1-scag4TMQ4kP64kTaOblqOPlQjt0HB2B#scrollTo=MmJoVwr-tKlF"
 !pip install -q tensorflow pandas scikit-learn
 import pandas as pd
