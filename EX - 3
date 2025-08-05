@@ -1,4 +1,5 @@
 Ex.3: 
+"https://colab.research.google.com/drive/1tuU_J2ysC4O3J381ASjG31j-w0WmeVy2"
 Generate synthetic images using traditional data augmentation function.
 
 import os
